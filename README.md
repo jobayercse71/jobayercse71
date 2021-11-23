@@ -26,7 +26,7 @@
 <h1 align="left">Github Stats:</h1>
 </br>
 
-![jobayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayercse71&show_icons=true&theme=radical)
+![jobayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayercse71&show_icons=true&theme=vue)
 
 </br>
 
