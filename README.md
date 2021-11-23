@@ -21,4 +21,9 @@
 ![jobayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayercse71&show_icons=true&theme=radical)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayercse71&layout=compact)](https://github.com/jobayercse71/github-readme-stats)
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayercse71&" alt="jobayercse71" /></p>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jobayercse71&label=Profile%20views&color=0e75b6&style=flat" alt="jobayercse71" /> </p>
+
 
