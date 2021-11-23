@@ -16,13 +16,15 @@
 
 
 ![jobayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayercse71&show_icons=true&theme=radical)
-##Top Languages:
+###Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayercse71&layout=compact)](https://github.com/jobayercse71/github-readme-stats)
+</br>
+</br>
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayercse71&" alt="jobayercse71" /></p>
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jobayercse71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobayercse71" height="30" width="40" /></a>
 </p>
