@@ -18,11 +18,14 @@
 </br>
 <h1 align="left">Github Stats:</h1>
 </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayercse71&layout=compact)](https://github.com/jobayercse71/github-readme-stats)
+
 </br>
 </br>
 <h1 align="left">Github Stats:</h1>
 </br>
+
 ![jobayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayercse71&show_icons=true&theme=radical)
 
 </br>
