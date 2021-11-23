@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jobayer Rahman</h1>
-<h3 align="left">A passionate frontend developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobayercse71&label=Profile%20views&color=0e75b6&style=flat" alt="jobayercse71" /> </p>
 <br/>
+<h1 align="center">Hi 👋, I'm Jobayer Rahman</h1>
+<h3 align="left">A passionate frontend developer from Bangladesh</h3>
+
 - 🔭 I’m currently working on **MERN**
 
 - 👯 I’m looking to collaborate on **MERN**
