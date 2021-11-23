@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jobayer Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="left">A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **MERN**
 
@@ -16,17 +16,16 @@
 
 </br>
 </br>
-</br>
-
+<h1 align="left">Top Languages:</h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayercse71&layout=compact)](https://github.com/jobayercse71/github-readme-stats)
 </br>
 </br>
-</br>
+<h1 align="left">Github Stats:</h1>
 ![jobayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayercse71&show_icons=true&theme=radical)
 
 </br>
 </br>
-</br>
+<h1 align="left">Heroku Stats:</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobayercse71&" alt="jobayercse71" /></p>
 <br/>
 
