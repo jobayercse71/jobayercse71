@@ -16,7 +16,7 @@
 
 </br>
 </br>
-<h1 align="left">Top Languages:</h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayercse71&layout=compact)](https://github.com/jobayercse71/github-readme-stats)
 </br>
 </br>
