@@ -22,7 +22,7 @@
 
 </br>
 
-<h1 align="left">Github Stats:</h1>
+<h3 align="left">Most Used Languages:</h3>
 </br>
 
 ![jobayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayercse71&show_icons=true&theme=radical)
