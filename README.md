@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jobayercse71](https://github.com/jobayercse71)
 
-- 📫 How to reach me **jobayercse71@gmail.com**
+- 📫 How to reach me **jobayer.rahman93@gmail.com**
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
